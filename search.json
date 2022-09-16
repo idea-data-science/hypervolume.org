@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hypervolume",
+    "section": "",
+    "text": "Things you’ll find on this page:\n\nProblem descriptions of the different problems related to hypervolume.\nA list of known implementations of the different algorithms.\nA list of papers published.\n\n\nContributors\nThe following people have contributed to this site (in alphabetical order):\n\nNicola Beume\nMichael Emmerich (homepage)\nBoris Naujoks (homepage)\nGünter Rudolph (homepage)\nSimon Wessing (homepage)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "bibliography.html",
+    "href": "bibliography.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "Auger, Anne, Johannes Bader, Dimo Brockhoff, and Eckart Zitzler. 2012. “Hypervolume-Based Multiobjective Optimization: Theoretical Foundations and Practical Implications.” Theoretical Computer Science 425: 75–103. https://doi.org/10.1016/j.tcs.2011.03.012.\n\n\nZitzler, Eckart, and Lothar Thiele. 1998. “Multiobjective Optimization Using Evolutionary Algorithms — a Comparative Case Study.” In Parallel Problem Solving from Nature — PPSN v, edited by Agoston E. Eiben, Thomas Bäck, Marc Schoenauer, and Hans-Paul Schwefel, 292–301. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0056872."
+  }
+]
