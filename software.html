@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -96,7 +115,13 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#exact-hypervolume" id="toc-exact-hypervolume" class="nav-link active" data-scroll-target="#exact-hypervolume">Exact Hypervolume</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/idea-data-science/hypervolume.org/edit/main/software.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/idea-data-science/hypervolume.org/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -117,10 +142,22 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="exact-hypervolume" class="level1">
+<h1>Exact Hypervolume</h1>
+<ul>
+<li>Manuel López-Ibáñez <a href="https://lopez-ibanez.eu/hypervolume">implementation</a> of the dimension-sweep algorithm</li>
+<li>Original Quick Hypervolume (<span class="citation" data-cites="russo2014">Russo &amp; Francisco (<a href="#ref-russo2014" role="doc-biblioref">2014</a>)</span>) algorithm <a href="http://web.tecnico.ulisboa.pt/luis.russo/QHV/">implementation</a></li>
+</ul>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+<div id="ref-russo2014" class="csl-entry" role="doc-biblioentry">
+Russo, L. M. S., &amp; Francisco, A. P. (2014). Quick hypervolume. <em>IEEE Transactions on Evolutionary Computation</em>, <em>18</em>(4), 481–502. <a href="https://doi.org/10.1109/TEVC.2013.2281525">https://doi.org/10.1109/TEVC.2013.2281525</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
