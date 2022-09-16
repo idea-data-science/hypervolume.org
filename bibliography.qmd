@@ -1,9 +1,10 @@
 ---
 title: Bibliography
-bibliography: literature.bib
 nocite: |
   @*
 ---
+
+List of all papers
 
 ::: {#refs}
 :::

@@ -1,12 +1,17 @@
 project:
   type: website
 
+toc: true
+bibliography: references.bib
+csl: refstyle.csl
+
 website:
   title: "Hypervolume"
   description: "Hypervolume related information"
   site-url: "https://hypervolume.org"
   repo-url: "https://github.com/idea-data-science/hypervolume.org"
   repo-actions: [edit, issue]
+  open-graph: true
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "Maintained by the Hypervolume-Cabal"
