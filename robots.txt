@@ -1,1 +1,1 @@
-Sitemap: https://hypervolume.org/sitemap.xml
+Sitemap: https://www.hypervolume.org/sitemap.xml

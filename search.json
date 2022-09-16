@@ -11,14 +11,14 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "References\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525"
+    "text": "References\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. Proceedings of the 2006 Congress on Evolutionary Computation (CEC 2006), 1157–1163. https://doi.org/10.1109/CEC.2006.1688440\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525"
   },
   {
     "objectID": "bibliography.html",
     "href": "bibliography.html",
     "title": "Bibliography",
     "section": "",
-    "text": "References\n\nAuger, A., Bader, J., Brockhoff, D., & Zitzler, E. (2012). Hypervolume-based multiobjective optimization: Theoretical foundations and practical implications. Theoretical Computer Science, 425, 75–103. https://doi.org/10.1016/j.tcs.2011.03.012\n\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. In Proceedings of the 2006 congress on evolutionary computation (CEC 2006) (pp. 1157–1163). IEEE Press. https://doi.org/10.1109/CEC.2006.1688440\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525\n\n\nZitzler, E., & Thiele, L. (1998). Multiobjective optimization using evolutionary algorithms — a comparative case study. In A. E. Eiben, T. Bäck, M. Schoenauer, & H.-P. Schwefel (Eds.), Parallel problem solving from nature — PPSN V (pp. 292–301). Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0056872"
+    "text": "References\n\nAuger, A., Bader, J., Brockhoff, D., & Zitzler, E. (2012). Hypervolume-based multiobjective optimization: Theoretical foundations and practical implications. Theoretical Computer Science, 425, 75–103. https://doi.org/10.1016/j.tcs.2011.03.012\n\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. Proceedings of the 2006 Congress on Evolutionary Computation (CEC 2006), 1157–1163. https://doi.org/10.1109/CEC.2006.1688440\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525\n\n\nZitzler, E., & Thiele, L. (1998). Multiobjective optimization using evolutionary algorithms — a comparative case study. In A. E. Eiben, T. Bäck, M. Schoenauer, & H.-P. Schwefel (Eds.), Parallel problem solving from nature — PPSN V (pp. 292–301). Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0056872"
   },
   {
     "objectID": "index.html",
