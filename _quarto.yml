@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Hypervolume"
+  description: "Hypervolume related information"
+  site-url: "https://hypervolume.org"
+  repo-url: "https://github.com/idea-data-science/hypervolume.org"
+  repo-actions: [edit, issue]
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "Maintained by the Hypervolume-Cabal"
+    background: "#D9E3E4"
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/idea-data-science/hypervolume.org 
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true

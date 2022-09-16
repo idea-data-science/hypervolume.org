@@ -1,0 +1,22 @@
+on:
+  push:
+    branches: main
+  workflow_dispatch:
+
+name: Build website
+
+jobs:
+  build-website:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Build
+        if: github.event_name != 'pull_request'
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages # The branch the action should deploy to.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

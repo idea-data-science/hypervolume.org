@@ -1,0 +1,25 @@
+---
+title: Hypervolume
+---
+
+This page presents a collection of links and papers related to the hypervolume quality indicator, a measure often used to assess the performance of multi-objective evolutionary algorithms.
+It is also used directly inside EAs to provide a selection pressure rewarding convergence as well as objective-space diversity of the candidate solutions.
+Hypervolume has the drawback that it takes exponential time in the number of dimensions to compute.
+For this reason, there is an active community developing faster algorithms (in theory and in practice) for this important problem.
+
+Things you'll find on this page:
+
+* [Problem descriptions](problem-descriptions.qmd) of the different problems related to hypervolume.
+* A list of known [implementations](software.qmd) of the different algorithms.
+* A list of [papers](bibliography.qmd) published.
+
+# Contributors
+
+The following people have contributed to this site (in alphabetical order):
+
+* Nicola Beume
+* Michael Emmerich ([homepage](https://www.universiteitleiden.nl/en/staffmembers/michael-emmerich))
+* Boris Naujoks  ([homepage](https://www.th-koeln.de/personen/boris.naujoks/))
+* Günter Rudolph ([homepage](https://ls11-www.cs.tu-dortmund.de/people/rudolph/))
+* Simon Wessing ([homepage](https://www.simonwessing.de/))
+

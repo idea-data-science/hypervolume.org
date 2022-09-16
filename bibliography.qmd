@@ -1,0 +1,10 @@
+---
+title: Bibliography
+bibliography: literature.bib
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
+
