@@ -8,7 +8,7 @@ csl: refstyle.csl
 website:
   title: "Hypervolume"
   description: "Hypervolume related information"
-  site-url: "https://hypervolume.org"
+  site-url: "https://www.hypervolume.org"
   repo-url: "https://github.com/idea-data-science/hypervolume.org"
   repo-actions: [edit, issue]
   open-graph: true
