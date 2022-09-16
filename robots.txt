@@ -1,1 +1,1 @@
-Sitemap: https://hypervolume.org/sitemap.xml
+Sitemap: https://idea-data-science.github.io/hypervolume.org/sitemap.xml
