@@ -2,4 +2,8 @@
 title: Software
 ---
 
+# Exact Hypervolume
+
+* Manuel López-Ibáñez [implementation](https://lopez-ibanez.eu/hypervolume) of the dimension-sweep algorithm
+* Original Quick Hypervolume (@russo2014) algorithm [implementation](http://web.tecnico.ulisboa.pt/luis.russo/QHV/)
 
