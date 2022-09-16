@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://idea-data-science.github.io/hypervolume.org/index.html</loc>
-    <lastmod>2022-09-16T08:29:00.978Z</lastmod>
+    <loc>https://hypervolume.org/problem-descriptions.html</loc>
+    <lastmod>2022-09-16T08:40:19.904Z</lastmod>
   </url>
   <url>
-    <loc>https://idea-data-science.github.io/hypervolume.org/problem-descriptions.html</loc>
-    <lastmod>2022-09-16T08:29:01.262Z</lastmod>
+    <loc>https://hypervolume.org/about.html</loc>
+    <lastmod>2022-09-16T08:40:20.824Z</lastmod>
   </url>
   <url>
-    <loc>https://idea-data-science.github.io/hypervolume.org/software.html</loc>
-    <lastmod>2022-09-16T08:29:01.543Z</lastmod>
+    <loc>https://hypervolume.org/software.html</loc>
+    <lastmod>2022-09-16T08:40:21.268Z</lastmod>
   </url>
   <url>
-    <loc>https://idea-data-science.github.io/hypervolume.org/about.html</loc>
-    <lastmod>2022-09-16T08:29:01.809Z</lastmod>
+    <loc>https://hypervolume.org/bibliography.html</loc>
+    <lastmod>2022-09-16T08:40:21.772Z</lastmod>
   </url>
   <url>
-    <loc>https://idea-data-science.github.io/hypervolume.org/bibliography.html</loc>
-    <lastmod>2022-09-16T08:29:02.109Z</lastmod>
+    <loc>https://hypervolume.org/index.html</loc>
+    <lastmod>2022-09-16T08:40:22.176Z</lastmod>
   </url>
 </urlset>
