@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "bibliography.html",
+    "href": "bibliography.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "List of all papers\n\n\nAuger, A., Bader, J., Brockhoff, D., & Zitzler, E. (2012). Hypervolume-based multiobjective optimization: Theoretical foundations and practical implications. Theoretical Computer Science, 425, 75–103. https://doi.org/10.1016/j.tcs.2011.03.012\n\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. Proceedings of the 2006 Congress on Evolutionary Computation (CEC 2006), 1157–1163. https://doi.org/10.1109/CEC.2006.1688440\n\n\nGuerreiro, A. P., Fonseca, C. M., & Paquete, L. (2021). The hypervolume indicator: Computational problems and algorithms. ACM Comput. Surv., 54(6). https://doi.org/10.1145/3453474\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525\n\n\nZitzler, E., & Thiele, L. (1998). Multiobjective optimization using evolutionary algorithms — a comparative case study. In A. E. Eiben, T. Bäck, M. Schoenauer, & H.-P. Schwefel (Eds.), Parallel problem solving from nature — PPSN V (pp. 292–301). Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0056872"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hypervolume",
     "section": "",
-    "text": "This page presents a collection of links and papers related to the hypervolume quality indicator, a measure often used to assess the performance of multi-objective evolutionary algorithms. It is also used directly inside meta-heuristics, e.g. EAs, to provide a selection pressure rewarding convergence as well as objective-space diversity of the candidate solutions. Hypervolume has the drawback that it takes exponential time in the number of dimensions to compute. For this reason, there is an active community developing faster algorithms (in theory and in practice) for this important problem.\nThings you’ll find on this page:\n\nProblem descriptions of the different problems related to hypervolume.\nA list of known implementations of the different algorithms.\nA list of papers published.\n\nFinally here is a link to the “old” page as part of Guenter Rudolph’s home page at the LS11, TU Dortmund.\n\nContributors\nThe following people have contributed to this site (in alphabetical order):\n\nNicola Beume\nMichael Emmerich (homepage)\nBoris Naujoks (homepage)\nGünter Rudolph (homepage)\nSimon Wessing (homepage)"
+    "text": "This page presents a collection of links and papers related to the hypervolume quality indicator, a measure often used to assess the performance of multi-objective evolutionary algorithms. It is also used directly inside meta-heuristics, e.g. EAs, to provide a selection pressure rewarding convergence as well as objective-space diversity of the candidate solutions. Hypervolume has the drawback that it takes exponential time in the number of dimensions to compute. For this reason, there is an active community developing faster algorithms (in theory and in practice) for this important problem.\nThings you’ll find on this page:\n\nProblem descriptions of the different problems related to hypervolume.\nA list of known implementations of the different algorithms.\nA list of papers published.\n\nFinally here is a link to the “old” page as part of Guenter Rudolph’s home page at the LS11, TU Dortmund.\n\nContributors\nThe following people have contributed to this site (in alphabetical order):\n\nNicola Beume\nMichael Emmerich (homepage)\nOlaf Mersmann (homepage)\nBoris Naujoks (homepage)\nGünter Rudolph (homepage)\nSimon Wessing (homepage)"
   },
   {
     "objectID": "software.html",
@@ -12,13 +19,6 @@
     "title": "Software",
     "section": "",
     "text": "Exact Hypervolume\n\nOriginal implementation of the dimension-sweep algorithm by Manuel López-Ibáñez as described in Fonseca et al. (2006).\nOriginal implementation of the Quick Hypervolume algorithm (QHV) by Russo & Francisco (2014).\n\n\n\n\n\n\nReferences\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. Proceedings of the 2006 Congress on Evolutionary Computation (CEC 2006), 1157–1163. https://doi.org/10.1109/CEC.2006.1688440\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525"
-  },
-  {
-    "objectID": "bibliography.html",
-    "href": "bibliography.html",
-    "title": "Bibliography",
-    "section": "",
-    "text": "List of all papers\n\n\nAuger, A., Bader, J., Brockhoff, D., & Zitzler, E. (2012). Hypervolume-based multiobjective optimization: Theoretical foundations and practical implications. Theoretical Computer Science, 425, 75–103. https://doi.org/10.1016/j.tcs.2011.03.012\n\n\nFonseca, C. M., Paquete, L., & López-Ibáñez, M. (2006). An improved dimension-sweep algorithm for the hypervolume indicator. Proceedings of the 2006 Congress on Evolutionary Computation (CEC 2006), 1157–1163. https://doi.org/10.1109/CEC.2006.1688440\n\n\nGuerreiro, A. P., Fonseca, C. M., & Paquete, L. (2021). The hypervolume indicator: Computational problems and algorithms. ACM Comput. Surv., 54(6). https://doi.org/10.1145/3453474\n\n\nRusso, L. M. S., & Francisco, A. P. (2014). Quick hypervolume. IEEE Transactions on Evolutionary Computation, 18(4), 481–502. https://doi.org/10.1109/TEVC.2013.2281525\n\n\nZitzler, E., & Thiele, L. (1998). Multiobjective optimization using evolutionary algorithms — a comparative case study. In A. E. Eiben, T. Bäck, M. Schoenauer, & H.-P. Schwefel (Eds.), Parallel problem solving from nature — PPSN V (pp. 292–301). Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0056872"
   },
   {
     "objectID": "about.html",
