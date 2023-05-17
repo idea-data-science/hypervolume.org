@@ -21,6 +21,7 @@ The following people have contributed to this site (in alphabetical order):
 
 * Nicola Beume
 * Michael Emmerich ([homepage](https://www.universiteitleiden.nl/en/staffmembers/michael-emmerich))
+* Olaf Mersmann ([homepage](https://www.th-koeln.de/personen/olaf.mersmann/))
 * Boris Naujoks  ([homepage](https://www.th-koeln.de/personen/boris.naujoks/))
 * Günter Rudolph ([homepage](https://ls11-www.cs.tu-dortmund.de/people/rudolph/))
 * Simon Wessing ([homepage](https://www.simonwessing.de/))
